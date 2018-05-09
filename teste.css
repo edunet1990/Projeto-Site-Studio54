@@ -1,0 +1,25 @@
+.section-contato{
+   background-color: #E5E5E5;
+   padding: 100PX;
+    
+}
+
+#botao-contato{
+    padding-top: 35px
+}
+
+#div-titulo-contate-nos{
+    padding-bottom: 45px;
+    }
+
+#texto-abaixo-contat-nos{
+    font-family: 'Josefin Slab', serif;
+    font-size: 18px;
+    padding-top: 8px;
+    padding-bottom: 40px
+}
+
+.titulo-contate-nos{
+    font-family: 'Anton', sans-serif; 
+}
+
